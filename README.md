@@ -159,15 +159,6 @@ CLOUDINARY_API_SECRET=<your_api_secret>
 
 ---
 
-## 🔗 Connect With Me
-
-Want to collaborate or have questions?
-
-* 👨‍💼 [LinkedIn](https://www.linkedin.com/in/nitin-gayke92/)
-* 🌐 [Portfolio](https://nitin-portfolio-gilt.vercel.app/)
-* 📧 [Email](mailto:gaykenitin975@gmail.com)
-
----
 
 > Proudly crafted with MERN Stack, real-time web technologies, and clean UI principles.
 > 🌟 Inspired by WhatsApp, built for production!
