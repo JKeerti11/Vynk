@@ -1,10 +1,10 @@
-# ChatMeetUp – Real-Time MERN Stack Based Chat & Video Calling App
+# Vynk – Real-Time MERN Stack Based Chat & Video Calling App
 
-![ChatMeetUp Banner](./assets/landingPage.png)
+![Vynk Banner](./assets/landingPage.png)
 
 ## 📌 About the Project
 
-**ChatMeetUp** is a feature-rich, real-time chat and video calling platform developed using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). It supports:
+**Vynk** is a feature-rich, real-time chat and video calling platform developed using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). It supports:
 
 * One-to-one and group messaging
 * File and image sharing
@@ -63,9 +63,9 @@
 
 * Create or join group chats with name and image.
 
-| Join User Mobile                             | Join User Laptop                               |
-| -------------------------------------------- | ---------------------------------------------- |
-| ![Public Status](./assets/userJoin.jpg) | ![Private Status](./assets/userJoin.png) |
+| Join User Mobile                        | Join User Laptop                        |
+| --------------------------------------- | --------------------------------------- |
+| ![Public Status](./assets/userJoin.jpg) | ![Public Status](./assets/userJoin.png) |
 
 ---
 
@@ -73,8 +73,8 @@
 
 *Share public/private status updates (text/image/video).*
 
-| Total Status                    | Image Status View               | Video Status View               | Status In Mobile               |
-| ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- |
+| Total Status                    | Image Status View               | Video Status View                   | Status In Mobile                     |
+| ------------------------------- | ------------------------------- | ----------------------------------- | ------------------------------------ |
 | ![ Status](./assets/status.png) | ![Status](./assets/status2.png) | ![Status](./assets/videoStatus.png) | ![Status](./assets/publicStatus.jpg) |
 
 ---
@@ -85,7 +85,7 @@
 * Search chat history and users.
 
 | Chat Room Laptop                 | Chat Room In Mobile              |
-| ---------------------------------| ---------------------------------|
+| -------------------------------- | -------------------------------- |
 | ![Chat 1](./assets/chatting.png) | ![Chat 2](./assets/chatMain.jpg) |
 
 ---
@@ -95,9 +95,9 @@
 * Seamless peer-to-peer video calling using WebRTC.
 * Auto reconnect and call decline options.
 
-| Call Init                             | Join Call                             | Call UI                             |
-| ------------------------------------- | ------------------------------------- | ----------------------------------- |
-| ![Call Init](./assets/incommingCall.png) | ![Call Live](./assets/joinCall.png)| ![Call UI](./assets/videoCall.png)  |
+| Call Init                                | Join Call                           | Call UI                            |
+| ---------------------------------------- | ----------------------------------- | ---------------------------------- |
+| ![Call Init](./assets/incommingCall.png) | ![Call Live](./assets/joinCall.png) | ![Call UI](./assets/videoCall.png) |
 
 ---
 
@@ -105,9 +105,9 @@
 
 * Profile picture, status, update username/password.
 
-| Profile View                      |
-| --------------------------------- |
-| ![Profile](./assets/profile.png)  |
+| Profile View                     |
+| -------------------------------- |
+| ![Profile](./assets/profile.png) |
 
 ---
 
@@ -116,13 +116,13 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/nitingayke/ChatMeetUp.git
+git clone https://github.com/JKeerti11/Vynk.git
 ```
 
 ### 2. Setup Client (Frontend)
 
 ```bash
-cd ChatMeetUp/client
+cd Vynk/Client
 npm install
 npm run dev
 ```
@@ -132,7 +132,7 @@ npm run dev
 Open a new terminal:
 
 ```bash
-cd ../server
+cd ../Server
 npm install
 nodemon
 ```
